@@ -89,7 +89,7 @@ pageviews:
 #
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
-# 
+#
 theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
@@ -222,7 +222,7 @@ jekyll-archives:
   enabled: [categories, tags]
   layouts:
     category: category
-    tag: tag
+    tag: skills
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
