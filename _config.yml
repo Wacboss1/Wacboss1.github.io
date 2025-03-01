@@ -222,7 +222,7 @@ jekyll-archives:
   enabled: [categories, tags]
   layouts:
     category: category
-    tag: skills
+    tag: tags
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
