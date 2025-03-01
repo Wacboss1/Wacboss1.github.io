@@ -1,10 +1,10 @@
 ---
-title: Nature's Trinity
-date: 2020-01-14
+title: Floating Worlds
+date: 2019-11-10
 categories: [Game Development]
 tags: [Unity, C#]   
 description: testing a description
-image: https://img.itch.zone/aW1nLzI2NzE2MTIucG5n/original/zhql9Q.png
+image: https://img.itch.zone/aW1nLzI5NzM2MjMucG5n/347x500/GHNgnH.png
 ---
 
 <h1>Goal</h1>
